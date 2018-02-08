@@ -31,4 +31,4 @@ Answer the questions in the exercises here. Push your answer and code to Github 
 	<br/> TreeSet will sort an array
 
 * Could we make `setExplorer` work with either Set or List?  How?
-	Yes, we can make setExplorer work with Set and List by making them to be a parameter.	
+	<br/> Yes, we can make setExplorer work with Set and List by making them to be a parameter.	
